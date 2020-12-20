@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\Beadandó\Beadandó\bin\Debug\netcoreapp3.1\Beadandó.exe
+C:\Users\Lenovo\Desktop\Beadandó\Beadandó\bin\Debug\netcoreapp3.1\Beadandó.deps.json
+C:\Users\Lenovo\Desktop\Beadandó\Beadandó\bin\Debug\netcoreapp3.1\Beadandó.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Beadandó\Beadandó\bin\Debug\netcoreapp3.1\Beadandó.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Beadandó\Beadandó\bin\Debug\netcoreapp3.1\Beadandó.dll
+C:\Users\Lenovo\Desktop\Beadandó\Beadandó\bin\Debug\netcoreapp3.1\Beadandó.pdb
+C:\Users\Lenovo\Desktop\Beadandó\Beadandó\obj\Debug\netcoreapp3.1\Beadandó.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Beadandó\Beadandó\obj\Debug\netcoreapp3.1\Beadandó.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Beadandó\Beadandó\obj\Debug\netcoreapp3.1\Beadandó.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Beadandó\Beadandó\obj\Debug\netcoreapp3.1\Beadandó.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Beadandó\Beadandó\obj\Debug\netcoreapp3.1\Beadandó.dll
+C:\Users\Lenovo\Desktop\Beadandó\Beadandó\obj\Debug\netcoreapp3.1\Beadandó.pdb
+C:\Users\Lenovo\Desktop\Beadandó\Beadandó\obj\Debug\netcoreapp3.1\Beadandó.genruntimeconfig.cache
